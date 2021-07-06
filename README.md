@@ -32,7 +32,3 @@ git clone https://github.com/jumpyhornet/SPOTIFY-CHECKER.git
 cd SPOTIFY-CHECKER
 python spotify-checker.py
 ```
-
-## Screenshot
-![image](https://github.com/jumpyhornet/SPOTIFY-CHECKER/blob/master/spotify-checker.png)
-
